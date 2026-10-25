@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**MMRyanSheep/MMRyanSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm a student developer passionate about
+computer science, game development, and mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🎮 Building games with Godot and Bevy
+- 🦀 Learning Rust and 3D visualization
+- 🐍 Exploring Python and Java
+- 🔧 Working on open-source projects
+
+### 🛠️ Tech Stack
+Rust • Python • Java • Godot • Bevy • Git
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
