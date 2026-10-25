@@ -14,4 +14,4 @@ computer science, game development, and mathematics.
 Rust • Python • Java • Godot • Bevy • Git
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMRyanSheep&show_icons=true)
